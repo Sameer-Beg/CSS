@@ -94,3 +94,15 @@ img{
     text-align: center;
     color: rebeccapurple;
 }
+
+.main{
+    margin: auto;
+}
+.paddin{
+    background-color: red;
+    width: 1000px;
+    height: 100px;
+    color: white;
+    margin: auto;
+    padding: 20px;
+}
